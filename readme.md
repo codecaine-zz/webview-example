@@ -6,7 +6,7 @@ This repository demonstrates how to use PyWebView to execute Python functions.
 
 To install the required dependencies, run the following command:
 
-> pip install -r requirements.txt
+> pip install pywebview
 
 ## Usage
 
